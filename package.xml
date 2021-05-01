@@ -13,5 +13,6 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <depend>python3-libvirt</depend>
+  <depend>python3-randmac-pip</depend>
 
 </package>
