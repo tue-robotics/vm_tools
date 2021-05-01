@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>vm_tools</name>
+  <version>0.1.0</version>
+  <description>Virtual machine management tools</description>
+
+  <maintainer email="ar13pit@gmail.com">Arpit Aggarwal</maintainer>
+
+  <license>MIT</license>
+
+  <author email="ar13pit@gmail.com">Arpit Aggarwal</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>python3-libvirt</depend>
+
+</package>
